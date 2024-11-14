@@ -51,19 +51,19 @@ INSERT INTO usuario (
     u_email,
     u_senha
 ) VALUES (
-    'Marina Azevedo',
+    'Joca da Silva',
     '2000-04-25',
-    'marinaazevedo@email.com',
+    'jocasilva@email.com',
     SHA1('Senha123') -- Criptografa a senha do usuário
 ), (
-    'Vanessa Santos',
+    'Marineuza Siriliano',
     '2003-03-12',
-    'vanessasantos@email.com',
+    'marineuza@email.com',
     SHA1('Senha123')
 ), (
-    'Diogo Oliveira',
+    'Setembrino Trocatapas',
     '1998-12-14',
-    'diogooliveira@email.com',
+    'setbrino@email.com',
     SHA1('Senha123')
 );
 
