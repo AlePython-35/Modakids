@@ -8,10 +8,10 @@
     --font-size: 16px;
 
     /* Cor de fundo do site */
-    --background-color: rgb(23, 64, 92);
+    --background-color: orange;
 
     /* Cor 1 do tema */
-    --primary-color: steelblue;
+    --primary-color: orange;
 
     /* Cor 2 do tema */
     --secondary-color: orange;
